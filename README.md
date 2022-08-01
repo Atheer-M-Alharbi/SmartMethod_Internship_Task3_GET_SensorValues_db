@@ -1,0 +1,1 @@
+# SmartMethod_Internship_Task3_GET_SensorValues_db
